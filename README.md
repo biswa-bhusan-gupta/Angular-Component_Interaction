@@ -1,2 +1,2 @@
-# Angular-Component_Interaction
+# Angular-Component-Interaction
 Created with CodeSandbox
